@@ -2,6 +2,15 @@
 - My Technical skillset includes: 
 - HTML/CSS
 - JavaScript
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- PostgreSQL
+- NPM
+- Java
+- C++
+- Python
 - 👀 I’m interested in learning **new technologies and practices** that can **elevate** the **level** of code and **bring impact to the world**!
 - 🌱 I’m currently learning **TypeScript** to further hone my knowledge in JavaScript/TypeScript domain. I plan to learn **flutter** next and I have a **mobile app** blueprint already saved on Figma!
 - 💞️ I’m looking to collaborate on web development projects that include tech skills from user perspective all the way to server-side management. 
