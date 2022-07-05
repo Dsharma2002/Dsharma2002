@@ -26,3 +26,5 @@ You can click the Preview link to take a look at your changes.
 ![Divyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dsharma2002&show_icons=true)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dsharma2002)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dsharma2002&langs_count=8)](https://github.com/Dsharma2002/github-readme-stats)
