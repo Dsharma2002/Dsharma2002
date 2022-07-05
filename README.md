@@ -23,4 +23,4 @@ Dsharma2002/Dsharma2002 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Divyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dsharma2002)](https://github.com/Dsharma2002/github-readme-stats)
+![Divyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dsharma2002&show_icons=true)
