@@ -1,4 +1,4 @@
-- 👋 Hi, I’m **Divyansh Sharma** or @Dsharma2002 a **2nd Year student at UBC** majoring in **CS**. 
+- 👋 Hi, I’m **Divyansh Sharma** or @Dsharma2002 a **4th Year student at UBC** majoring in **CS**. 
 - My Technical skillset includes: 
 - HTML/CSS
 -   JavaScript
